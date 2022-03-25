@@ -52,7 +52,7 @@ int main()
 		  x[i] = x[i]/a[i][i];
 	 }
 
-	 printf("\nSolution:\n");
+	 printf("\n nghiem la:\n");
 	 for(i=1;i<=n;i++)
 	 {
 	  	printf("x[%d] = %0.3f\n",i, x[i]);
